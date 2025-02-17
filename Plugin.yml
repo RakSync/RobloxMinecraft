@@ -1,0 +1,5 @@
+name: RobloxMinecraft
+version: 0.1.0
+main: RakSync\RobloxMinecraft\Main
+api: 5.0.0
+author: RakSync
